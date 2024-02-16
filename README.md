@@ -1,6 +1,15 @@
 Hi there 👋
 
-#### Who am I?
+#### TL;DR
 
-- Ph.D. student specializing in cooperative multi-agent reinforcement learning at **[Fundazione Bruno Kessler](https://www.fbk.eu/en/)**
-- See my portfolio at **[vinczematyas.github.io](https://vinczematyas.github.io)**
+- Ph.D. student specializing in Cooperative AI at **[Fundazione Bruno Kessler](https://www.fbk.eu/en/)** and **[University of Trento](https://www.unitn.it/en)**
+- TODO
+
+#### Interests
+
+- Anything Machine Learning
+- TODO
+
+#### Languages and Tools
+
+- TODO
